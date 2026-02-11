@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
                <Bot className="h-6 w-6 text-primary-400" />
-               <span className="font-bold text-xl text-white">Automate</span>
+               <span className="font-bold text-xl text-white">Autoflows</span>
             </div>
             <p className="text-slate-400 mb-6 max-w-sm">
               AI Automation • AI Agents • Business Systems • API Integrations. 
@@ -45,7 +45,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-slate-900 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-slate-600 text-sm">
-                © {new Date().getFullYear()} Automate. Serving clients worldwide.
+                © {new Date().getFullYear()} Autoflows. Serving clients worldwide.
             </p>
             <div className="flex gap-6 text-sm text-slate-600">
                 <a href="#" className="hover:text-slate-400">Privacy Policy</a>

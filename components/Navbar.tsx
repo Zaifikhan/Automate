@@ -32,7 +32,7 @@ const Navbar: React.FC = () => {
             <div className="p-2 bg-primary-500/10 rounded-lg group-hover:bg-primary-500/20 transition-colors">
               <Bot className="h-6 w-6 text-primary-400" />
             </div>
-            <span className="font-bold text-xl tracking-tight">Automate</span>
+            <span className="font-bold text-xl tracking-tight">Autoflows</span>
           </div>
 
           <div className="hidden md:block">

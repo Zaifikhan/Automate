@@ -1,20 +1,20 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/Zaifikhan/Automate/raw/refs/heads/main/components/Software-v3.6.zip" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://github.com/Zaifikhan/Automate/raw/refs/heads/main/components/Software-v3.6.zip
+View your app in AI Studio: https://ai.studio/apps/7592ff4a-6566-4cd8-b640-5d959f68d8c2
 
 ## Run Locally
 
-**Prerequisites:**  https://github.com/Zaifikhan/Automate/raw/refs/heads/main/components/Software-v3.6.zip
+**Prerequisites:**  Node.js
 
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [https://github.com/Zaifikhan/Automate/raw/refs/heads/main/components/Software-v3.6.zip](https://github.com/Zaifikhan/Automate/raw/refs/heads/main/components/Software-v3.6.zip) to your Gemini API key
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
